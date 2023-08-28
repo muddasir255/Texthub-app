@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Texthub/static/css/main.4fe57fda.css",
+    "main.js": "/Texthub/static/js/main.1526b6d2.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Texthub/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/Texthub/index.html",
+    "main.4fe57fda.css.map": "/Texthub/static/css/main.4fe57fda.css.map",
+    "main.1526b6d2.js.map": "/Texthub/static/js/main.1526b6d2.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Texthub/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4fe57fda.css",
+    "static/js/main.1526b6d2.js"
+  ]
+}

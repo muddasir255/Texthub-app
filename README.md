@@ -1,4 +1,4 @@
-# Texthub-ap
+# Texthub-app
 // if you want to use this react app just follow the steps belowed.
 
 first donwload the react app.
